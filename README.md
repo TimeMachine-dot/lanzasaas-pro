@@ -4,6 +4,12 @@ Boilerplate SaaS en español para lanzar productos más rápido.
 
 LanzaSaaS Pro es una base moderna pensada para freelancers, agencias pequeñas, desarrolladores y creadores que quieren construir un SaaS sin empezar desde cero. Incluye autenticación, recuperación de contraseña, roles, panel admin, planes Free y Pro, límites de uso mensuales y una interfaz lista para adaptar.
 
+## Compra
+
+Versión Pro disponible aquí:
+
+[Comprar en Gumroad](https://arturobriones.gumroad.com/l/lussbe)
+
 ## Qué es
 
 LanzaSaaS Pro te ayuda a ahorrar semanas de trabajo inicial resolviendo desde el inicio lo que más suele frenar un MVP SaaS:
